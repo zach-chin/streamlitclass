@@ -16,7 +16,7 @@ batstat = "RBI"
 
 ##### Title and intro
 
-st.title( 'Example Streamlit App' )
+st.title( 'Creating a Histogram From baseball Team and batting stat' )
 
 
 ##### Inputs
